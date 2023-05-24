@@ -35,3 +35,7 @@ resources:
       password:
       host:
       port:
+  assets:
+    type: s3
+    properties:
+      bucket:
